@@ -3,9 +3,9 @@ The purpose of this project is to explore the design and training of Artificial 
 
 A multi-layer neural network and backpropagation are used to train the MNIST Database of handwritten digits.
 
-Please see my report...
+Please see [my report](MNIST_ANN_report.pdf)
 
-## Author
+## Authors
 Wai Kwan Shum
 
 ## References
